@@ -1,6 +1,6 @@
 {
-  "name": "angular-socket-io",
-  "version": "0.7.0",
+  "name": "ioncube-angular-socket-io",
+  "version": "1.0.0",
   "main": "socket.js",
   "dependencies": {
     "angular": "^1.2.6"

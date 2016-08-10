@@ -3,6 +3,8 @@
 Bower Component for using AngularJS with [Socket.IO](http://socket.io/),
 based on [this](http://briantford.com/blog/angular-socket-io.html).
 
+Forked and enhanced by ionCube Ltd. Released as 1.0.0.
+Renamed ioncube-angular-socket-io to resolve name clash with original.
 
 ## Install
 
